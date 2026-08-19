@@ -1,0 +1,50 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    rice (4.12.0)
+    safetensors (0.3.0-aarch64-linux)
+    safetensors (0.3.0-aarch64-linux-musl)
+    safetensors (0.3.0-arm64-darwin)
+    safetensors (0.3.0-x86_64-darwin)
+    safetensors (0.3.0-x86_64-linux)
+    safetensors (0.3.0-x86_64-linux-musl)
+    tokenizers (0.7.0-aarch64-linux)
+    tokenizers (0.7.0-aarch64-linux-musl)
+    tokenizers (0.7.0-arm64-darwin)
+    tokenizers (0.7.0-x86_64-darwin)
+    tokenizers (0.7.0-x86_64-linux)
+    tokenizers (0.7.0-x86_64-linux-musl)
+    torch-rb (0.25.0)
+      rice (>= 4.8)
+
+PLATFORMS
+  aarch64-linux
+  aarch64-linux-musl
+  arm64-darwin
+  x86_64-darwin
+  x86_64-linux
+  x86_64-linux-musl
+
+DEPENDENCIES
+  safetensors
+  tokenizers
+  torch-rb
+
+CHECKSUMS
+  rice (4.12.0) sha256=672c369ca706ff5be46695537f51e1a3db262c1b789af5b967ef477f25111dfd
+  safetensors (0.3.0-aarch64-linux) sha256=dee377576f32d21907e2901a65eb98532e09cab5b6fd8abe3c6082e9e986eebf
+  safetensors (0.3.0-aarch64-linux-musl) sha256=c5582f6470e1ab182198091492ec5f1c0e39bb2f627cc4e72121f0004ee44124
+  safetensors (0.3.0-arm64-darwin) sha256=da6fc53fc9965dfea55219d4be7a53c41a0cee5557cd1047920b9e13a1ff63b5
+  safetensors (0.3.0-x86_64-darwin) sha256=3b5a586d292dcc08f35851d595356fe69a3432699590914766a1aa88f4482b6b
+  safetensors (0.3.0-x86_64-linux) sha256=0f960f82ffe775af372cb9d25fbe3b7b0788e20db93f17f48ce7a0b072313bd8
+  safetensors (0.3.0-x86_64-linux-musl) sha256=60dfee7a7484f4e7caeb7b2720e291e6b3e518a76aafaee4e0566df7cffbae65
+  tokenizers (0.7.0-aarch64-linux) sha256=c7cc43f4144d02e8db3a7d743725e38144f357d3f225373ef3a732869b057b2e
+  tokenizers (0.7.0-aarch64-linux-musl) sha256=f8b38535be37a044d7b119a65b2966b09c5493fdfd6eaf850b0f3c4f37fd81fa
+  tokenizers (0.7.0-arm64-darwin) sha256=a54883b2fe7ca83a9275284a30edeb12376a1fe1af6b9be6bf9693ef202eac82
+  tokenizers (0.7.0-x86_64-darwin) sha256=e67366c1d35e34b6fa406b1fbb528411fe229c5f12cdf05fc7f68269dcc1b8ea
+  tokenizers (0.7.0-x86_64-linux) sha256=a795e5026ccf6f6340195789c48ff8c9c26462c75feb3b2971e26aef3118d842
+  tokenizers (0.7.0-x86_64-linux-musl) sha256=c2409219bb97772ae3117671d62d5c021a5db9cf7212b3cf09a15a7cc8828989
+  torch-rb (0.25.0) sha256=85aae7eac61965f599740b26930e37eec66027d072e7919ba231cfc704863e0b
+
+BUNDLED WITH
+  4.0.10
